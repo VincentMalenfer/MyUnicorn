@@ -1,0 +1,13 @@
+
+/* MEDIA QUERIES */
+
+@media screen and (max-width: 414px) {
+  figure figcaption {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+}
